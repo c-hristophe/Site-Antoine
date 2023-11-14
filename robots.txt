@@ -1,0 +1,7 @@
+User-agent: Googlebot
+
+
+User-agent: *
+Allow: /
+Disallow: contact.php
+Sitemap: https://www.lumaat-video.com/sitemap.xml
